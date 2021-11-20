@@ -31,7 +31,7 @@ const Doc = loadable(() => pMinDelay(import('containers/Doc'), DELAY_TIME));
 
 const useStyles = makeStyles(() => ({
   primaryTextColor: {
-    color: '#fff'
+    color: '#246712'
   }
 }));
 
